@@ -1,0 +1,16 @@
+{
+  "name": "tab-news",
+  "version": "1.0.0",
+  "description": "Implementação para o TabNews - baseando-se no https://curso.dev.com.br",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
