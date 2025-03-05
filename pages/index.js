@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>I'm creating a new sentece.</h1>
+    return <h1>Creating a new sentence to handle with a new deployment.</h1>
 }
 
 export default Home;
